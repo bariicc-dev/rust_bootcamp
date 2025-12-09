@@ -1,7 +1,3 @@
 [workspace]
-<<<<<<< ours
-members = ["rust00", "rust01", "rust02"]
-=======
-members = ["rust00", "rust01", "rust02", "rust03", "rust04"]
->>>>>>> theirs
+members = ["rust_00", "rust_01", "rust_02", "rust_03", "rust_04"]
 resolver = "2"
